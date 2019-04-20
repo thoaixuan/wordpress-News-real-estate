@@ -1,0 +1,1017 @@
+# Translation of Themes - PT Magazine in Vietnamese
+# This file is distributed under the same license as the Themes - PT Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-12 03:04:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - PT Magazine\n"
+
+#. Description of the theme
+msgid "PT Magazine is modern and perfectly crafted responsive theme suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online magazines, newsportals and any creative sites. This SEO friendly free magazine theme is fast, secure and perfectly suitable for topics like business, fashion, technology, politics, sports, health, travel or anything else. Find video instructions at https://www.youtube.com/watch?v=y3hQmkMHbvA&list=PL-Ic437QwxQ8pBxfHsldZMQiHLvoEYmSS"
+msgstr "Tạp chí PT là chủ đề đáp ứng hiện đại và được chế tác hoàn hảo phù hợp với tin tức, báo, tạp chí, nhà xuất bản, blog, biên tập viên, tạp chí trực tuyến, newsportals và bất kỳ trang web sáng tạo nào. Chủ đề tạp chí miễn phí thân thiện với SEO này là nhanh chóng, an toàn và hoàn toàn phù hợp cho các chủ đề như kinh doanh, thời trang, công nghệ, chính trị, thể thao, sức khỏe, du lịch hoặc bất kỳ điều gì khác. Tìm hướng dẫn bằng video tại https://www.youtube.com/watch?v=y3hQmkMHbvA&list=PL-Ic437QwxQ8pBxfHsldZMQiHLvoEYmSS"
+
+#. Theme Name of the theme
+#: includes/theme-info/class-about.php:700
+msgid "PT Magazine"
+msgstr "PT Magazine"
+
+#: includes/hooks.php:669
+msgid "News"
+msgstr "Tin tức"
+
+#: includes/customizer/options.php:585
+msgid "No Sidebar"
+msgstr "Không cột bên"
+
+#: includes/customizer/options.php:94
+msgid "Enable Sticky Sidebar"
+msgstr "Bật Thanh bên Chú ý"
+
+#: includes/widgets/two-column-news.php:298
+#: includes/widgets/featured-column-news.php:189
+#: includes/widgets/three-column-news.php:144
+#: includes/widgets/mix-column-news.php:190
+msgid "Layout"
+msgstr "Bố cục"
+
+#: includes/customizer/options.php:104
+msgid "Top Header Options"
+msgstr "Tùy chọn tiêu đề hàng đầu"
+
+#: includes/customizer/options.php:322
+msgid "Show Slider"
+msgstr "Hiển thị thanh trượt"
+
+#: includes/theme-info/about.php:9 includes/theme-info/about.php:10
+msgid "About PT Magazine"
+msgstr "Trong khoảng PT Magazine"
+
+#. translators: 1: theme name
+#: includes/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "Chúng tôi hy vọng trang này sẽ giúp bạn thiết lập %1$s với vài cú nhấp chuột. Chúng tôi tin rằng bạn sẽ thấy nó dễ sử dụng và hoàn hảo cho việc phát triển trang web của bạn."
+
+#: includes/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "Chi tiết chủ đề"
+
+#: includes/theme-info/about.php:25
+msgid "View Demo"
+msgstr "Xem bản trình diễn"
+
+#: includes/theme-info/about.php:29 includes/theme-info/about.php:118
+msgid "View Documentation"
+msgstr "Xem tài liệu"
+
+#: includes/theme-info/about.php:34
+msgid "Rate This Theme"
+msgstr "Xếp hạng chủ đề này"
+
+#: includes/theme-info/about.php:41
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: includes/theme-info/about.php:42 includes/theme-info/about.php:60
+msgid "Recommended Actions"
+msgstr "Hành động được đề xuất"
+
+#: includes/theme-info/about.php:43
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: includes/theme-info/about.php:44 includes/theme-info/about.php:165
+#: includes/theme-info/class-about.php:603
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên PRO"
+
+#: includes/theme-info/about.php:45
+msgid "FREE VS. PRO"
+msgstr "FREE VS. PRO"
+
+#: includes/theme-info/about.php:51 includes/theme-info/about.php:115
+msgid "Theme Documentation"
+msgstr "Tài liệu chủ đề"
+
+#: includes/theme-info/about.php:52
+msgid "Find step by step instructions with video documentation to setup theme easily."
+msgstr "Tìm hướng dẫn từng bước với tài liệu video để thiết lập chủ đề dễ dàng."
+
+#: includes/theme-info/about.php:53
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: includes/theme-info/about.php:61
+msgid "We recommend few steps to take so that you can get complete site like shown in demo."
+msgstr "Chúng tôi khuyên bạn nên thực hiện một vài bước để bạn có thể có được trang web hoàn chỉnh như được hiển thị trong bản trình diễn."
+
+#: includes/theme-info/about.php:62
+msgid "Check recommended actions"
+msgstr "Kiểm tra các hành động được đề xuất"
+
+#: includes/theme-info/about.php:69
+msgid "Customize Everything"
+msgstr "Tùy chỉnh mọi thứ"
+
+#: includes/theme-info/about.php:70
+msgid "Start customizing every aspect of the website with customizer."
+msgstr "Bắt đầu tùy chỉnh mọi khía cạnh của trang web với tùy biến."
+
+#: includes/theme-info/about.php:71
+msgid "Go to Customizer"
+msgstr "Chuyển đến Trình tùy chỉnh"
+
+#: includes/theme-info/about.php:79 includes/theme-info/about.php:134
+msgid "Youtube Video Tutorials"
+msgstr "Hướng dẫn bằng video trên Youtube"
+
+#: includes/theme-info/about.php:80 includes/theme-info/about.php:136
+msgid "Please check our youtube channel for video instructions of PT Magazine setup and customization."
+msgstr "Vui lòng kiểm tra kênh youtube của chúng tôi để biết hướng dẫn bằng video về cách thiết lập và tùy chỉnh Đá eCommerce."
+
+#: includes/theme-info/about.php:81 includes/theme-info/about.php:137
+msgid "Video Tutorials"
+msgstr "Video hướng dẫn"
+
+#: includes/theme-info/about.php:94
+msgid "Setting Static Front Page"
+msgstr "Đặt trang trước tĩnh"
+
+#: includes/theme-info/about.php:95
+msgid "Create a new page to display on front page ( Ex: Home ) and assign \"Home\" template. Then select A static page to display news widgets on it."
+msgstr "Tạo trang mới để hiển thị trên trang chủ (Ví dụ: Trang chủ) và gán mẫu  \"Trang chủ \". Sau đó chọn Một trang tĩnh để hiển thị các widget tin tức trên đó."
+
+#: includes/theme-info/about.php:98
+msgid "Static Front Page"
+msgstr "Trang trước tĩnh"
+
+#: includes/theme-info/about.php:106 includes/theme-info/about.php:109
+msgid "Contact Support"
+msgstr "Liên hệ hỗ trợ"
+
+#: includes/theme-info/about.php:108
+msgid "If you have any problem, feel free to create ticket on our dedicated Support forum."
+msgstr "Nếu bạn có bất kỳ vấn đề gì, vui lòng tạo vé trên diễn đàn Hỗ trợ riêng của chúng tôi."
+
+#: includes/theme-info/about.php:117
+msgid "Kindly check our theme documentation for detailed information and video instructions."
+msgstr "Vui lòng kiểm tra tài liệu chủ đề của chúng tôi để biết thông tin chi tiết và hướng dẫn bằng video."
+
+#: includes/theme-info/about.php:124
+msgid "Pro Version"
+msgstr "Phiên bản chuyên nghiệp"
+
+#: includes/theme-info/about.php:127
+msgid "Upgrade to pro version for additional features and options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có các tính năng và tùy chọn bổ sung."
+
+#: includes/theme-info/about.php:128
+msgid "View Pro Version"
+msgstr "Xem phiên bản Pro"
+
+#: includes/theme-info/about.php:143 includes/theme-info/about.php:146
+msgid "Customization Request"
+msgstr "Yêu cầu tùy chỉnh"
+
+#: includes/theme-info/about.php:145
+msgid "We have dedicated team members for theme customization. Feel free to contact us any time if you need any customization service."
+msgstr "Chúng tôi có các thành viên nhóm chuyên dụng để tùy chỉnh chủ đề. Hãy liên hệ với chúng tôi bất kỳ lúc nào nếu bạn cần bất kỳ dịch vụ tùy biến nào."
+
+#: includes/theme-info/about.php:152
+msgid "Child Theme"
+msgstr "Chủ đề trẻ em"
+
+#: includes/theme-info/about.php:154
+msgid "If you want to customize theme file, you should use child theme rather than modifying theme file itself."
+msgstr "Nếu bạn muốn tùy chỉnh tập tin chủ đề, bạn nên sử dụng chủ đề con hơn là sửa đổi tập tin chủ đề của chính nó."
+
+#: includes/theme-info/about.php:155
+msgid "About child theme"
+msgstr "Giới thiệu về chủ đề con"
+
+#: includes/theme-info/about.php:164
+msgid "Upgrade to pro version for more exciting features and additional theme options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có nhiều tính năng thú vị hơn và các tùy chọn chủ đề bổ sung."
+
+#: includes/theme-info/about.php:173
+msgid "Custom Widgets"
+msgstr "Tiện ích tùy chỉnh"
+
+#: includes/theme-info/about.php:174
+msgid "Widgets added by theme to enhance features"
+msgstr "Tiện ích được thêm theo chủ đề để tăng cường các tính năng"
+
+#: includes/theme-info/about.php:175
+msgid "8"
+msgstr "8"
+
+#: includes/theme-info/about.php:176
+msgid "10"
+msgstr "10"
+
+#: includes/theme-info/about.php:180
+msgid "Google Fonts"
+msgstr "Phông Google"
+
+#: includes/theme-info/about.php:181
+msgid "Google fonts options for changing the overall site fonts"
+msgstr "Các tùy chọn phông chữ của Google để thay đổi phông chữ trang web tổng thể"
+
+#: includes/theme-info/about.php:183
+msgid "100+"
+msgstr "100+"
+
+#: includes/theme-info/about.php:186
+msgid "Color Options"
+msgstr "Tùy chọn phông chữ"
+
+#: includes/theme-info/about.php:187
+msgid "Options to change primary color of the site"
+msgstr "Các tùy chọn phông chữ của Google để thay đổi phông chữ trang web tổng thể"
+
+#: includes/theme-info/about.php:188 includes/theme-info/about.php:189
+#: includes/theme-info/about.php:195 includes/theme-info/about.php:201
+#: includes/theme-info/about.php:207 includes/theme-info/about.php:213
+#: includes/theme-info/about.php:225 includes/theme-info/about.php:231
+#: includes/theme-info/about.php:242
+msgid "yes"
+msgstr "Có"
+
+#: includes/theme-info/about.php:192
+msgid "Advanced Color Options"
+msgstr "Tùy chọn màu nâng cao"
+
+#: includes/theme-info/about.php:193
+msgid "Color options for changing sections, elements and overall site colors"
+msgstr "Các tùy chọn màu để thay đổi các phần, phần tử và màu của trang web tổng thể"
+
+#: includes/theme-info/about.php:194 includes/theme-info/about.php:200
+#: includes/theme-info/about.php:206 includes/theme-info/about.php:212
+#: includes/theme-info/about.php:224 includes/theme-info/about.php:230
+msgid "no"
+msgstr "Không"
+
+#: includes/theme-info/about.php:198
+msgid "Sticky Navigation"
+msgstr "Điều hướng chú ý"
+
+#: includes/theme-info/about.php:199
+msgid "Option to make main navigation stick to viewport on scroll"
+msgstr "Tùy chọn để chuyển thanh điều hướng chính thành chế độ xem khi cuộn"
+
+#: includes/theme-info/about.php:204
+msgid "News Carousel"
+msgstr "Băng chuyền tin tức"
+
+#: includes/theme-info/about.php:205
+msgid "Widget to display news in carousel mode"
+msgstr "Tiện ích hiển thị tin tức ở chế độ băng chuyền"
+
+#: includes/theme-info/about.php:210
+msgid "Alternate News"
+msgstr "Tin tức thay thế"
+
+#: includes/theme-info/about.php:211
+msgid "Widget to display news in alternate style (Image and content in left-right and vice-versa)"
+msgstr "Widget hiển thị tin tức theo phong cách thay thế (Hình ảnh và nội dung ở bên trái-phải và ngược lại)"
+
+#: includes/theme-info/about.php:216
+msgid "Copyright Editor"
+msgstr "Trình chỉnh sửa bản quyền"
+
+#: includes/theme-info/about.php:217
+msgid "Option to change Copyright information in footer"
+msgstr "Tùy chọn thay đổi thông tin bản quyền ở chân trang"
+
+#: includes/theme-info/about.php:218
+msgid "Basic"
+msgstr "Căn bản"
+
+#: includes/theme-info/about.php:219
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: includes/theme-info/about.php:222
+msgid "Hide Footer Credit"
+msgstr "Ẩn tín dụng chân trang"
+
+#: includes/theme-info/about.php:223
+msgid "Option to enable/disable Powerby(Designer) credit in footer"
+msgstr "Tùy chọn bật / tắt tín dụng Powerby (Designer) ở chân trang"
+
+#: includes/theme-info/about.php:228
+msgid "Override Footer Credit"
+msgstr "Ghi đè tín dụng chân trang"
+
+#: includes/theme-info/about.php:229
+msgid "Option to Override existing Powerby credit of footer"
+msgstr "Tùy chọn để ghi đè tín dụng Powerby hiện tại của chân trang"
+
+#: includes/theme-info/about.php:234
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/theme-info/about.php:235
+msgid "Developed with high skilled SEO tools."
+msgstr "Được phát triển với các công cụ SEO có kỹ năng cao."
+
+#: includes/theme-info/about.php:240
+msgid "Support Forum"
+msgstr "Diễn đàn hỗ trợ"
+
+#: includes/theme-info/about.php:241
+msgid "Highly experienced and dedicated support team for your help plus online chat."
+msgstr "Đội ngũ hỗ trợ có kinh nghiệm và tận tụy với sự giúp đỡ của bạn cộng với trò chuyện trực tuyến."
+
+#: includes/theme-info/about.php:243
+msgid "High Priority"
+msgstr "Ưu tiên cao"
+
+#: includes/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Chào mừng bạn! Cảm ơn bạn về sự lựa chọn %1$s! Để tận dụng tối đa những gì tốt nhất, chủ đề của chúng tôi có thể cung cấp, hãy đảm bảo bạn truy cập vào %2$strang chào mừng%3$s."
+
+#: includes/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: includes/theme-info/class-about.php:561
+msgid "Install"
+msgstr "Cài đặt"
+
+#: includes/theme-info/class-about.php:565
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: includes/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr "Tắt"
+
+#. translators: theme version
+#: includes/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "Chào mừng phiên bản %s - "
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Có vẻ như không tìm thấy gì ở vị trí này. Có thể thử một trong các liên kết dưới đây hoặc tìm kiếm khác?"
+
+#. Template Name of the theme
+#: includes/template-tags.php:239
+msgid "Home"
+msgstr "Nhà"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr "Các bình luận trước"
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: functions.php:60
+msgid "Top Header"
+msgstr "Tiêu đề hàng đầu"
+
+#: functions.php:61
+msgid "Primary Header"
+msgstr "Tiêu đề chính"
+
+#: functions.php:62
+msgid "Social Links"
+msgstr "đường liên kết mạng xã hội"
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: functions.php:107
+msgid "Add widgets here to appear in Sidebar."
+msgstr "Thêm tiện ích ở đây để xuất hiện trong Thanh bên."
+
+#: functions.php:114
+msgid "Home Page Widget Area"
+msgstr "Khu vực tiện ích trang chủ"
+
+#: functions.php:116
+msgid "Add widgets here to appear in Home Page Widget Area."
+msgstr "Thêm tiện ích ở đây để xuất hiện trong Khu vực tiện ích trang chủ."
+
+#: functions.php:123 functions.php:131 functions.php:139 functions.php:147
+msgid "Footer %d"
+msgstr "Chân trang %d"
+
+#: functions.php:155
+msgid "Header Advertisement"
+msgstr "Tiêu đề quảng cáo"
+
+#: includes/customizer/control.php:85 includes/customizer/options.php:177
+#: includes/customizer/options.php:340 includes/customizer/options.php:476
+#: includes/customizer/options.php:521
+msgid "Select Category"
+msgstr "Chọn danh mục"
+
+#: includes/customizer/core.php:70
+msgid "Trending :"
+msgstr "Xu hướng:"
+
+#: includes/customizer/core.php:106
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: includes/customizer/core.php:116
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: includes/customizer/core.php:121
+msgid "Copyright &copy; All rights reserved."
+msgstr "Bản quyền &copy; Đã đăng ký Bản quyền."
+
+#: includes/theme-info/class-about.php:701
+#: includes/customizer/customizer.php:41
+msgid "PT Magazine Plus"
+msgstr "PT Magazine Thêm"
+
+#: includes/customizer/customizer.php:42
+msgid "Upgrade to PRO"
+msgstr "Nâng cấp lên PRO"
+
+#: includes/customizer/options.php:23
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: includes/customizer/options.php:24
+msgid "Applied to main color of site."
+msgstr "Áp dụng cho màu chính của trang web."
+
+#: includes/customizer/options.php:38
+msgid "Logo Options"
+msgstr "Tùy chọn Logo"
+
+#: includes/customizer/options.php:41
+msgid "Logo Only"
+msgstr "Chỉ Logo"
+
+#: includes/customizer/options.php:42
+msgid "Title + Tagline"
+msgstr "Tiêu đề + Dòng giới thiệu"
+
+#: includes/customizer/options.php:43
+msgid "Logo + Tagline"
+msgstr "Logo + Dòng giới thiệu"
+
+#: includes/customizer/options.php:50
+msgid "Theme Options"
+msgstr "Tuỳ chọn giao diện"
+
+#: includes/customizer/options.php:59
+msgid "General Settings"
+msgstr "Tùy chỉnh chung"
+
+#: includes/customizer/options.php:74
+msgid "Site Layout"
+msgstr "Bố cục website"
+
+#: includes/customizer/options.php:79
+msgid "Full Width"
+msgstr "Toàn màn hình"
+
+#: includes/customizer/options.php:80
+msgid "Boxed"
+msgstr "Dạng hộp"
+
+#: includes/customizer/options.php:119
+msgid "Show Top Header"
+msgstr "Hiển thị tiêu đề hàng đầu"
+
+#: includes/customizer/options.php:135
+msgid "Top Header Left Section"
+msgstr "Phần đầu trang bên trái"
+
+#: includes/customizer/options.php:140
+msgid "Trending News"
+msgstr "Tin tức thịnh hành"
+
+#: includes/customizer/options.php:141 includes/customizer/options.php:218
+msgid "Current Date"
+msgstr "Ngay hiện tại"
+
+#: includes/customizer/options.php:142 includes/customizer/options.php:219
+msgid "Menu"
+msgstr "Trình đơn"
+
+#: includes/customizer/options.php:143 includes/customizer/options.php:220
+msgid "Social Icons"
+msgstr "Biểu tượng mạng xã hội"
+
+#: includes/customizer/options.php:158
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/customizer/options.php:195
+msgid "Number of Posts"
+msgstr "Số bài viết:"
+
+#: includes/customizer/options.php:213
+msgid "Top Header Right Section"
+msgstr "Phần đầu trang bên phải"
+
+#: includes/customizer/options.php:229
+msgid "Main Navigation Options"
+msgstr "Tùy chọn điều hướng chính"
+
+#: includes/customizer/options.php:260
+msgid "Show Home Icon"
+msgstr "Hiển thị Biểu tượng Trang chủ"
+
+#: includes/customizer/options.php:276
+msgid "Show Search Form"
+msgstr "Hiển thị biểu mẫu tìm kiếm"
+
+#: includes/customizer/options.php:292
+msgid "Search Form Style"
+msgstr "Kiểu biểu mẫu tìm kiếm"
+
+#: includes/customizer/options.php:297
+msgid "Style One (Always Visible)"
+msgstr "Kiểu một (Luôn hiển thị)"
+
+#: includes/customizer/options.php:298
+msgid "Style Two (Visible on Click)"
+msgstr "Kiểu hai (Hiển thị khi nhấp)"
+
+#: includes/customizer/options.php:307
+msgid "Main Slider"
+msgstr "Thanh trượt chính"
+
+#: includes/customizer/options.php:357
+msgid "Transition Effect"
+msgstr "Hiệu quả chuyển giao"
+
+#: includes/customizer/options.php:362
+msgid "Fade"
+msgstr "Phai màu"
+
+#: includes/customizer/options.php:363
+msgid "Scroll Horizontal"
+msgstr "Cuộn ngang"
+
+#: includes/customizer/options.php:364
+msgid "Scroll Vertical"
+msgstr "Cuộn dọc"
+
+#: includes/customizer/options.php:379
+msgid "Transition Delay"
+msgstr "Chậm trễ chuyển tiếp"
+
+#: includes/customizer/options.php:380
+msgid "in seconds"
+msgstr "trong vài giây"
+
+#: includes/customizer/options.php:398
+msgid "Enable Autoplay"
+msgstr "Bật Tự động phát"
+
+#: includes/customizer/options.php:415
+msgid "Show Arrows"
+msgstr "Hiển thị mũi tên"
+
+#: includes/customizer/options.php:432
+msgid "Enable Overlay"
+msgstr "Bật lớp phủ"
+
+#: includes/customizer/options.php:443
+msgid "Featured News(Right of Slider)"
+msgstr "Tin tức nổi bật (Right of Slider)"
+
+#: includes/customizer/options.php:458
+msgid "Show Featured News"
+msgstr "Hiển thị tin tức nổi bật"
+
+#: includes/customizer/options.php:488
+msgid "Highlighted News(Below Slider)"
+msgstr "Tin nổi bật (Dưới thanh trượt)"
+
+#: includes/customizer/options.php:503
+msgid "Show Highlighted News"
+msgstr "Hiển thị tin nổi bật"
+
+#: includes/customizer/options.php:533
+msgid "Breadcrumb Options"
+msgstr "Tùy chọn Breadcrumb"
+
+#: includes/customizer/options.php:549
+msgid "Breadcrumb Type"
+msgstr "Loại Breadcrumb"
+
+#: includes/customizer/options.php:554
+msgid "Disable"
+msgstr "Tắt"
+
+#: includes/customizer/options.php:555
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: includes/customizer/options.php:563
+msgid "Blog Options"
+msgstr "Tùy chọn Blog"
+
+#: includes/customizer/options.php:578
+msgid "Sidebar Position"
+msgstr "Vị trí thanh bên"
+
+#: includes/customizer/options.php:583
+msgid "Left Sidebar"
+msgstr "Cột trái"
+
+#: includes/customizer/options.php:584
+msgid "Right Sidebar"
+msgstr "Cột phải"
+
+#: includes/customizer/options.php:599
+msgid "Post Listing Type"
+msgstr "Loại danh sách bài đăng"
+
+#: includes/customizer/options.php:604
+msgid "Grid"
+msgstr "Dạng lưới"
+
+#: includes/customizer/options.php:605
+msgid "List"
+msgstr "Danh sách"
+
+#: includes/customizer/options.php:619
+msgid "Excerpt Length"
+msgstr "Độ dài mô tả"
+
+#: includes/customizer/options.php:620
+msgid "in words"
+msgstr "bằng lời"
+
+#: includes/customizer/options.php:637 includes/customizer/options.php:760
+msgid "Show Posted Date"
+msgstr "Hiển thị Ngày đăng"
+
+#: includes/customizer/options.php:653 includes/customizer/options.php:776
+msgid "Show Post Author"
+msgstr "Hiển thị tác giả bài đăng"
+
+#: includes/customizer/options.php:669 includes/customizer/options.php:792
+msgid "Show Post Categories"
+msgstr "Hiển thị danh mục bài đăng"
+
+#: includes/customizer/options.php:685 includes/customizer/options.php:808
+msgid "Show Comment Count"
+msgstr "Hiển thị số lượng nhận xét"
+
+#: includes/customizer/options.php:701
+msgid "Show Read More Button"
+msgstr "Hiện nút đọc thêm"
+
+#: includes/customizer/options.php:717
+msgid "Read More Button Text"
+msgstr "Đọc thêm Văn bản nút"
+
+#: includes/customizer/options.php:729
+msgid "Single Post Options"
+msgstr "Tùy chọn bài đăng đơn"
+
+#: includes/customizer/options.php:744
+msgid "Show Featured Image"
+msgstr "Hiển thị hình ảnh nổi bật"
+
+#: includes/customizer/options.php:824
+msgid "Show Post Tags"
+msgstr "Hiển thị thẻ"
+
+#: includes/customizer/options.php:840
+msgid "Show Posts Navigation"
+msgstr "Hiển thị điều hướng bài đăng"
+
+#: includes/customizer/options.php:856
+msgid "Show Author Information"
+msgstr "Hiển thị thông tin tác giả"
+
+#: includes/customizer/options.php:872
+msgid "Show Related Posts"
+msgstr "Hiển thị bài viết liên quan"
+
+#: includes/customizer/options.php:888
+msgid "Related Posts Title"
+msgstr "Bài viết liên quan"
+
+#: includes/customizer/options.php:899
+msgid "Footer Options"
+msgstr "Tùy chọn chân trang"
+
+#: includes/customizer/options.php:915
+msgid "Copyright Text"
+msgstr "Văn bản Bản quyền"
+
+#: includes/hooks.php:569
+msgid "%1$s by %2$s"
+msgstr "%1$s bởi %2$s"
+
+#. translators: %s: post title
+#: includes/template-tags.php:134
+msgid "No Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Miễn bình luận<span class=\"screen-reader-text\"> trên %s</span>"
+
+#. translators: %s: Name of current post
+#: includes/template-tags.php:161 template-parts/content-page.php:50
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: includes/widgets/extended-recent-posts.php:20
+msgid "Widget to display recent posts with thumbnail and date. Receommended to use in sidebar or footer."
+msgstr "Widget để hiển thị các bài viết gần đây với hình thu nhỏ và ngày tháng. Được chấp nhận để sử dụng trong thanh bên hoặc chân trang."
+
+#: includes/widgets/extended-recent-posts.php:23
+msgid "PT: Advance Recent Posts"
+msgstr "PT: Bài viết gần đây"
+
+#: includes/widgets/extended-recent-posts.php:100
+msgid "Recent Posts"
+msgstr "Bài đăng gần đây"
+
+#: includes/widgets/extended-recent-posts.php:105
+#: includes/widgets/featured-column-news.php:194
+#: includes/widgets/popular-posts.php:107
+#: includes/widgets/three-column-news.php:149
+#: includes/widgets/mix-column-news.php:195 includes/widgets/social.php:103
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: includes/widgets/extended-recent-posts.php:111
+#: includes/widgets/two-column-news.php:360
+#: includes/widgets/featured-column-news.php:232
+#: includes/widgets/popular-posts.php:113
+#: includes/widgets/three-column-news.php:180
+#: includes/widgets/mix-column-news.php:240
+msgid "Number of Posts:"
+msgstr "Số bài viết:"
+
+#: includes/widgets/featured-column-news.php:20
+msgid "Widget to display featured news in left side and remaining news at right with thumbnail"
+msgstr "Tiện ích hiển thị tin tức nổi bật ở bên trái và tin tức còn lại ở bên phải có hình thu nhỏ"
+
+#: includes/widgets/featured-column-news.php:23
+msgid "PT: Featured Column News"
+msgstr "PT: Cột nổi bật"
+
+#: includes/widgets/two-column-news.php:290
+#: includes/widgets/featured-column-news.php:181
+#: includes/widgets/three-column-news.php:137
+#: includes/widgets/mix-column-news.php:181
+msgid "View All"
+msgstr "Xem tất cả"
+
+#: includes/widgets/featured-column-news.php:200
+#: includes/widgets/three-column-news.php:155
+#: includes/widgets/mix-column-news.php:201
+msgid "Category:"
+msgstr "Thể loại:"
+
+#: includes/widgets/two-column-news.php:317
+#: includes/widgets/two-column-news.php:338
+#: includes/widgets/featured-column-news.php:210
+#: includes/widgets/three-column-news.php:165
+#: includes/widgets/mix-column-news.php:211
+msgid "All Categories"
+msgstr "Tất cả danh mục"
+
+#: includes/widgets/two-column-news.php:345
+#: includes/widgets/featured-column-news.php:217
+#: includes/widgets/three-column-news.php:172
+#: includes/widgets/mix-column-news.php:218
+msgid "View All Text:"
+msgstr "Xem tất cả văn bản:"
+
+#: includes/widgets/two-column-news.php:348
+#: includes/widgets/featured-column-news.php:220
+#: includes/widgets/three-column-news.php:175
+#: includes/widgets/mix-column-news.php:221
+msgid "Leave this field empty if you want to hide it."
+msgstr "Để trống trường này nếu bạn muốn ẩn trường này."
+
+#: includes/widgets/two-column-news.php:354
+#: includes/widgets/featured-column-news.php:226
+msgid "Excerpt Length:"
+msgstr "Độ dài trích đoạn:"
+
+#: includes/widgets/mix-column-news.php:20
+msgid "Widget to display news in mix columns layout. First post in full column and other in two column"
+msgstr "Tiện ích hiển thị tin tức trong bố cục cột kết hợp. Bài đầu tiên trong cột đầy đủ và cột khác trong hai cột"
+
+#: includes/widgets/mix-column-news.php:23
+msgid "PT: Mix Column News"
+msgstr "PT: Mix Column News"
+
+#: includes/widgets/mix-column-news.php:227
+msgid "First Excerpt Length:"
+msgstr "Độ dài trích đoạn đầu tiên:"
+
+#: includes/widgets/mix-column-news.php:234
+msgid "Excerpt Length Small Posts:"
+msgstr "Trích đoạn dài Bài viết nhỏ:"
+
+#: includes/widgets/popular-posts.php:20
+msgid "Widget to display popular posts with thumbnail and date. Receommended to use in sidebar or footer."
+msgstr "Widget để hiển thị các bài viết phổ biến với hình thu nhỏ và ngày tháng. Được chấp nhận để sử dụng trong thanh bên hoặc chân trang."
+
+#: includes/widgets/popular-posts.php:23
+msgid "PT: Popular Posts"
+msgstr "PT: Bài viết phổ biến"
+
+#: includes/widgets/popular-posts.php:102
+msgid "Popular Posts"
+msgstr "Bài viết phổ biến"
+
+#: includes/widgets/social.php:26
+msgid "Social Icons Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: includes/widgets/social.php:28
+msgid "PT: Social"
+msgstr "PT: Xã hội"
+
+#: includes/widgets/social.php:109
+msgid "Social menu is not set. Please create menu and assign it to Social Theme Location."
+msgstr "Menu xã hội chưa được đặt. Vui lòng tạo trình đơn và chỉ định cho Địa điểm chủ đề xã hội."
+
+#: includes/widgets/tabbed-content.php:20
+msgid "Widget to display popular news, recent posts and comments in tab."
+msgstr "Tiện ích để hiển thị tin tức phổ biến, bài đăng và nhận xét gần đây trong tab."
+
+#: includes/widgets/tabbed-content.php:23
+msgid "PT: Tabbed Content"
+msgstr "PT: Nội dung được gắn thẻ"
+
+#: includes/widgets/tabbed-content.php:38
+msgid "Popular"
+msgstr "Phổ biến"
+
+#: includes/widgets/tabbed-content.php:42
+msgid "Recent"
+msgstr "Gần đây"
+
+#: includes/widgets/tabbed-content.php:46
+msgid "Comments"
+msgstr "Bình luận"
+
+#: includes/widgets/tabbed-content.php:168
+msgid "By"
+msgstr "Bởi"
+
+#: includes/widgets/tabbed-content.php:214
+msgid "Popular Post Number:"
+msgstr "Số bài đăng phổ biến:"
+
+#: includes/widgets/tabbed-content.php:221
+msgid "Recent Post Number:"
+msgstr "Số bài đăng gần đây:"
+
+#: includes/widgets/tabbed-content.php:228
+msgid "Commented Post Number:"
+msgstr "Số bài đăng đã nhận xét:"
+
+#: includes/widgets/three-column-news.php:20
+msgid "Widget to display news in three columns layout."
+msgstr "Widget để hiển thị tin tức trong ba cột bố trí."
+
+#: includes/widgets/three-column-news.php:23
+msgid "PT: Three Column News"
+msgstr "PT: Tin tức ba cột"
+
+#: includes/widgets/two-column-news.php:20
+msgid "Widget to display news in two columns."
+msgstr "Widget để hiển thị tin tức trong hai cột."
+
+#: includes/widgets/two-column-news.php:23
+msgid "PT: Two Column News"
+msgstr "PT: Hai cột Tin tức"
+
+#: includes/widgets/two-column-news.php:303
+msgid "First Column Title:"
+msgstr "Tiêu đề cột đầu tiên:"
+
+#: includes/widgets/two-column-news.php:307
+msgid "First Column Category:"
+msgstr "Danh mục cột đầu tiên:"
+
+#: includes/widgets/two-column-news.php:324
+msgid "Second Column Title:"
+msgstr "Tiêu đề cột thứ hai:"
+
+#: includes/widgets/two-column-news.php:328
+msgid "Second Column Category:"
+msgstr "Danh mục cột thứ hai:"
+
+#: template-parts/content-author-details.php:19
+msgid "About %s"
+msgstr "Về %s"
+
+#: template-parts/content-author-details.php:24
+msgid "View all posts by %s &rarr;"
+msgstr "Xem tất cả các bài viết của %s &rarr;"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">hãy bắt đầu từ đây</a>."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có kết quả phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không thấy nội dung tìm kiếm. Hãy thử tìm kiếm khác."
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39 template-parts/content-page.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:44 template-parts/content-page.php:38
+msgid "Pages:"
+msgstr "Trang:"
+
+#: templates/home.php:39
+msgid "Widgets of Home Page Widget Area will be displayed here. Go to Appearance->Widgets in admin panel to add widgets. All these widgets will be replaced when you start adding widgets."
+msgstr "Widgets của Home Page Widget Area sẽ được hiển thị ở đây. Vào Appearance-> Widgets trong bảng quản trị để thêm widget. Tất cả các tiện ích này sẽ được thay thế khi bạn bắt đầu thêm tiện ích."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Trang có chiều rộng đầy đủ"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm kiếm &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: includes/helpers.php:127
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Work Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: includes/helpers.php:123
+msgctxt "Domine font: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:152
+msgid ", "
+msgstr ", "
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://www.prodesigns.com/"
+msgstr "https://www.prodesigns.com/"
+
+#. Author of the theme
+msgid "PrDesigns"
+msgstr "ProDesigns"
+
+#. Theme URI of the theme
+msgid "https://www.prodesigns.com/wordpress-themes/downloads/pt-magazine/"
+msgstr "https://www.prodesigns.com/wordpress-themes/downloads/pt-magazine/"
